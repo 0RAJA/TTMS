@@ -1,0 +1,94 @@
+raja            2021.3 .21  10:50:10  OUT  
+jingli          2021.3 .21  11:3 :48  IN   
+jingli          2021.3 .21  11:6 :17  OUT  
+jingli          2021.3 .21  11:31:9   IN   
+jingli          2021.3 .21  11:32:14  IN   
+jingli          2021.3 .21  11:32:45  OUT  
+jingli          2021.3 .21  11:33:25  IN   
+jingli          2021.3 .21  11:34:24  OUT  
+jingli          2021.3 .21  12:0 :24  IN   
+jingli          2021.3 .21  12:2 :14  OUT  
+jingli          2021.3 .21  12:9 :12  IN   
+jingli          2021.3 .21  12:10:18  OUT  
+jingli          2021.3 .21  13:38:23  IN   
+jingli          2021.3 .21  13:38:53  OUT  
+aha             2021.3 .21  13:39:0   IN   
+aha             2021.3 .21  13:39:12  OUT  
+jingli          2021.3 .21  15:41:18  IN   
+jingli          2021.3 .21  15:45:52  OUT  
+jingli          2021.3 .21  16:10:28  IN   
+jingli          2021.3 .21  16:15:10  IN   
+jingli          2021.3 .21  16:16:14  IN   
+jingli          2021.3 .21  16:17:52  IN   
+jingli          2021.3 .21  16:19:14  OUT  
+aha             2021.3 .21  16:19:20  IN   
+aha             2021.3 .21  16:19:48  OUT  
+jingli          2021.3 .21  16:48:0   IN   
+jingli          2021.3 .21  16:48:12  OUT  
+aha             2021.3 .21  16:48:16  IN   
+aha             2021.3 .21  16:48:57  OUT  
+jingli          2021.3 .21  16:49:2   IN   
+jingli          2021.3 .21  16:50:7   OUT  
+aha             2021.3 .21  16:50:12  IN   
+aha             2021.3 .21  16:50:26  OUT  
+jingli          2021.3 .21  19:1 :33  IN   
+jingli          2021.3 .21  19:2 :38  OUT  
+jingli          2021.3 .21  19:2 :58  IN   
+jingli          2021.3 .21  19:3 :12  OUT  
+jingli          2021.3 .21  19:4 :31  IN   
+jingli          2021.3 .21  19:5 :9   OUT  
+jingli          2021.3 .21  19:5 :14  IN   
+jingli          2021.3 .21  19:5 :16  OUT  
+jingli          2021.3 .21  19:5 :38  IN   
+jingli          2021.3 .21  19:7 :6   OUT  
+jingli          2021.3 .21  19:7 :11  IN   
+jingli          2021.3 .21  19:8 :45  IN   
+jingli          2021.3 .21  19:9 :19  OUT  
+jingli          2021.3 .21  19:9 :23  IN   
+jingli          2021.3 .21  19:9 :45  IN   
+jingli          2021.3 .21  19:10:17  OUT  
+jingli          2021.3 .21  19:10:23  IN   
+jingli          2021.3 .21  19:10:40  IN   
+jingli          2021.3 .21  19:10:43  OUT  
+jingli          2021.3 .21  19:11:3   IN   
+jingli          2021.3 .21  19:11:5   OUT  
+jingli          2021.3 .21  19:13:15  IN   
+jingli          2021.3 .21  19:13:16  OUT  
+jingli          2021.3 .21  19:13:49  IN   
+jingli          2021.3 .21  19:14:24  OUT  
+jingli          2021.3 .21  19:14:31  IN   
+jingli          2021.3 .21  19:14:35  OUT  
+aha             2021.3 .21  19:14:41  IN   
+aha             2021.3 .21  19:15:12  OUT  
+jingli          2021.4 .21  19:16:0   IN   
+jingli          2021.4 .21  19:16:5   OUT  
+aha             2021.4 .21  19:16:12  IN   
+aha             2021.4 .21  19:16:15  OUT  
+jingli          2021.3 .21  20:45:53  IN   
+jingli          2021.3 .21  20:46:0   OUT  
+aha             2021.3 .21  20:46:4   IN   
+aha             2021.3 .21  20:46:19  OUT  
+raja            2021.5 .2   21:23:59  IN   
+raja            2021.5 .2   21:24:9   OUT  
+raja            2021.5 .2   21:24:32  IN   
+raja            2021.5 .2   21:24:35  OUT  
+raja            2021.5 .2   21:24:40  IN   
+raja            2021.5 .2   21:24:42  OUT  
+raja            2021.5 .2   21:29:58  IN   
+raja            2021.5 .2   21:30:8   OUT  
+aha             2021.5 .2   21:30:13  IN   
+aha             2021.5 .2   21:30:28  OUT  
+jingli          2021.5 .2   21:36:56  IN   
+jingli          2021.5 .2   21:40:11  OUT  
+aha             2021.5 .2   21:40:17  IN   
+aha             2021.5 .2   21:41:17  OUT  
+jingli          2021.5 .2   21:41:25  IN   
+jingli          2021.5 .2   21:42:20  OUT  
+aha             2021.5 .2   21:42:29  IN   
+jingli          2021.5 .2   21:47:37  IN   
+jingli          2021.5 .2   21:48:59  IN   
+jingli          2021.5 .2   21:49:7   OUT  
+aha             2021.5 .2   21:49:14  IN   
+aha             2021.5 .2   21:49:44  OUT  
+aha             2021.5 .2   21:49:50  IN   
+aha             2021.5 .2   21:50:0   OUT  

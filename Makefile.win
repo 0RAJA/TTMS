@@ -1,0 +1,73 @@
+# Project: TTMS
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o code.o face.o in.o movie.o person.o port.o screen.o time_login.o ticket.o seat.o box.o _strcmp.o time_legal.o automatic_del.o Print.o
+LINKOBJ  = main.o code.o face.o in.o movie.o person.o port.o screen.o time_login.o ticket.o seat.o box.o _strcmp.o time_legal.o automatic_del.o Print.o
+LIBS     = -L"D:/Code_apps/Dev-Cpp/MinGW64/lib" -L"D:/Code_apps/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -pg -g3
+INCS     = -I"D:/Code_apps/Dev-Cpp/MinGW64/include" -I"D:/Code_apps/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Code_apps/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"D:/Code_apps/Dev-Cpp/MinGW64/include" -I"D:/Code_apps/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Code_apps/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Code_apps/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = TTMS.exe
+CXXFLAGS = $(CXXINCS) -pg -g3 -std=c99
+CFLAGS   = $(INCS) -pg -g3 -std=c99
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.c
+	$(CC) -c main.c -o main.o $(CFLAGS)
+
+code.o: code.c
+	$(CC) -c code.c -o code.o $(CFLAGS)
+
+face.o: face.c
+	$(CC) -c face.c -o face.o $(CFLAGS)
+
+in.o: in.c
+	$(CC) -c in.c -o in.o $(CFLAGS)
+
+movie.o: movie.c
+	$(CC) -c movie.c -o movie.o $(CFLAGS)
+
+person.o: person.c
+	$(CC) -c person.c -o person.o $(CFLAGS)
+
+port.o: port.c
+	$(CC) -c port.c -o port.o $(CFLAGS)
+
+screen.o: screen.c
+	$(CC) -c screen.c -o screen.o $(CFLAGS)
+
+time_login.o: time_login.c
+	$(CC) -c time_login.c -o time_login.o $(CFLAGS)
+
+ticket.o: ticket.c
+	$(CC) -c ticket.c -o ticket.o $(CFLAGS)
+
+seat.o: seat.c
+	$(CC) -c seat.c -o seat.o $(CFLAGS)
+
+box.o: box.c
+	$(CC) -c box.c -o box.o $(CFLAGS)
+
+_strcmp.o: _strcmp.c
+	$(CC) -c _strcmp.c -o _strcmp.o $(CFLAGS)
+
+time_legal.o: time_legal.c
+	$(CC) -c time_legal.c -o time_legal.o $(CFLAGS)
+
+automatic_del.o: automatic_del.c
+	$(CC) -c automatic_del.c -o automatic_del.o $(CFLAGS)
+
+Print.o: Print.c
+	$(CC) -c Print.c -o Print.o $(CFLAGS)
